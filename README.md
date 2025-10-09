@@ -1,9 +1,4 @@
-Howdy!
+HOWDDY!
 
-Just a person interested in tech stuff, mostly servers and AI. Long time VRchat regular .veteran strategy/story generator player. Absolutely love Rimworld.
-I mod every game. I love modding.
-Currently trying to make my own agent engine to create AI npcs that form societies and create lore. and maybe also be useful in MCP settings, tool use is a powerful tool (pun intended)
-
-I dont really like decorating my bio, this was written here by the force of guilt, just reach me out if you want to learn more or chat  
-
-I use nix btw 
+Check my itch.io out, I write articles and random blog posts about game AI and procedural generation. huge nerd about LLMs in games since 2021(Early AI dungeon days!) 
+besides that im the server guy, Technomancer! 
